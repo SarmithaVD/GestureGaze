@@ -1,2 +1,5 @@
-# Sign-Language-Recognition-System
-A real-time sign language recognition system using hand landmarks detected through computer vision. 
+# sign-language-detector-python
+
+Sign language detector with Python, OpenCV and Mediapipe !
+
+[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
